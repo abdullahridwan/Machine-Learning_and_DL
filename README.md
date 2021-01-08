@@ -1,5 +1,4 @@
-# Machine Learning Journey
-This repo is a hub of the different machine learning algorithms I am learning and applying them on datasets, using google colab. I am incredibly amazed by the applications of Machine Learning and the different methodologies in solving problems and am eager to learn more. Working towards some kaggle competitions and incorporating algorithms in a MERN stack website (yay Software Engineering!) 
+# Machine Learning
 
 
 **Linear Regression**
