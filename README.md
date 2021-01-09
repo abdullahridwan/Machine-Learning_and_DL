@@ -10,5 +10,12 @@
 
 
 **Logistic Regression**
+* This refers to the Logistic Regression ml model as per colab book Titanic.ipynb
+* We then do some exploratory data analysis to gain general insight into the data
+* Then, we clean up the data by dropping cols that have too many missing values, and imputing values for another column
+* When creating the ML model, I had to deal with categorical features and _multicolinearity_
+
+
+
 **KNN**
 **Decision Tree's and Random Forests**
