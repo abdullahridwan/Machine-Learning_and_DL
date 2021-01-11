@@ -18,4 +18,11 @@
 
 
 **KNN**
+* This refers to the KNN_Project.ipynb file
+* In this project, I looked at anonymous data and applied the KNN algorithm to it. 
+* I also iterated the algorithm multiple times with different k values to then find the k value that gives the lowest error rate. 
+
+
+
 **Decision Tree's and Random Forests**
+
